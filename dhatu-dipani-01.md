@@ -1,11 +1,11 @@
-1.Pāḷi: [chói-sáng] [rực-rỡ]
+Pāḷi: [vươn-sáng-rực-quắc]
 Jinainaṃ[o1] namāmi[v-cúi] [tại-đây] [chạm-khởi-tan].
 
 Ledi Nissaya: ထွန်းတက်ဘုန်းရှိန်၊ လင်းလင်းထိန်၊ ဇိနိန်-နမာမိ။
 
-Nissaya Việt: Tại đây, cúi đấng thắng[o1] chói sáng rực rỡ [chạm-khởi-tan].
+Nissaya Việt: Tại đây, cúi đấng thắng[o1] vươn sáng rực quắc [chạm-khởi-tan].
 
-Nghĩa ước lệ: Ngay tại đây, hành động cúi đầu đang được thực hiện trực tiếp trước người đã chiến thắng mọi ràng buộc, người đang tỏa ra nguồn năng lượng chói sáng rực rỡ [chạm-khởi-tan]."
+Diễn giải: Ngay tại đây, cái tôi được uốn cong hoàn toàn trước đấng thắng người đang vận hành nguồn năng lượng vươn sáng rực quắc, quét sạch mọi bóng tối diễn giải trong cái biết [chạm-khởi-tan].
 
 2.Pāḷi: Saddhāya[a1] [v-thấu] sikkhāya[a1] [v-thấu] [t-rất-khéo] atthaṃ[o1] [t-đúng-thật] [v-biết] [chạm-khởi-tan].
 
