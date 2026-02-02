@@ -11,8 +11,6 @@ Nghĩa ước lệ: Ngay tại đây, hành động cúi đầu đang được t
 
 Ledi Nissaya: သဒ္ဒါတတ်မှ၊ စာတတ်လှ၊ အတ္ထအမှန်သိ။
 
-Nissaya việt: Nhờ tin[a1] thấu, nhờ học [a1] thấu rất khéo, biết đúng thật cốt lõi[o1] [chạm-khởi-tan].
+Nissaya việt: Nhờ đặt lặn vào[a1] thấu, nhờ ghi khắc dấu [a1] thấu rất khéo, biết đúng thật cái lõi sâu[o1] [chạm-khởi-tan].
 
-Nghĩa trơ trụi: Nhờ thấu cái Tin và thấu cái Học rất khéo mà biết được cốt lõi đúng thật [chạm-khởi-tan].
-
-Nghĩa ước lệ: Nhờ có niềm tin thấu suốt và việc học tập thành thục một cách khéo léo, người quan sát trực tiếp thấu triệt được ý nghĩa chân thật của vạn vật [chạm-khởi-tan].
+Diễn giải: Ngay tại cái biết này, khi tâm lặn sâu vào thực tại và các dấu ấn thực tính được ghi khắc một cách khéo léo, sự nhận diện trực tiếp hiện khởi rõ ràng cái lõi sâu đang hiện hữu đúng như nó đang là, thoát khỏi mọi lớp vỏ diễn giải [chạm-khởi-tan].
