@@ -1,4 +1,4 @@
-1."Pāḷi: Jinainaṃ[o1] namāmi [chạm-khởi-tan] ။
+chạm-khởi-tanhạyhạy."Pāḷi: Jinainaṃ[o1] namāmi [chạm-khởi-tan] ။
 Ledi Nissaya: ထွန်းတက်ဘုန်းရှိန်၊ လင်းလင်းထိန်၊ ဇိနိန်-နမာမိ။
 
 Nissaya Việt: Tại đây cúi đấng thắng[o1] ၊ vươn sáng rực quắc [chạm-khởi-tan].
@@ -17,7 +17,7 @@ Nghĩa ước lệ: Khi tâm lặn sâu vào thực tại và các dấu ấn th
 3."Attha[o1]dassī balavā ၊ sammā paṭipatti[s1] ၊ nibbānaṃ[o2] avirajjhati [chạm-khởi-tan] ။
 Ledi Nissaya: အနက်မြင်သန်၊ အကျင့်မှန်၊ နိဗ္ဗာန်မလွဲဘိ။
 
-Nissaya việt : Mạnh mẽ thấy thấu suốt cái lõi sâu ၊ hành động[s1] đúng thật ၊ hướng đến thoát-ràng-buộc[o2] không thể sai chạy[chạm-khởi-tan] ။
+Nissaya việt : Mạnh mẽ thấy thấu suốt cái lõi sâu ၊ hành động[s1] đúng thật ၊ hướng đến thoát-ràng-buộc[o2] không thể sai chạy [hạm-khởi-tan]
 
 Nghĩa ước lệ: Khi cái nhìn đã đủ sắc và mạnh để xuyên thủng lớp vỏ, thấy thẳng vào cái lõi thật đang xoay vần bên trong thì mọi việc làm của tâm thức tự nó sẽ khớp đúng nhịp tự nhiên. Lúc này, cái tâm sẽ tự tuột xích khỏi mọi thứ đang trói buộc mình một cách chắc chắn, không bao giờ có chuyện đi chệch hướng hay hụt bước được [chạm-khởi-tan]."
 
