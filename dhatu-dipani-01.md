@@ -1,4 +1,4 @@
-chạm-khởi-tanhạyhạy."Pāḷi: Jinainaṃ[o1] namāmi [chạm-khởi-tan] ။
+1."Pāḷi: Jinainaṃ[o1] namāmi [chạm-khởi-tan] ။
 Ledi Nissaya: ထွန်းတက်ဘုန်းရှိန်၊ လင်းလင်းထိန်၊ ဇိနိန်-နမာမိ။
 
 Nissaya Việt: Tại đây cúi đấng thắng[o1] ၊ vươn sáng rực quắc [chạm-khởi-tan].
