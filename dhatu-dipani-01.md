@@ -19,7 +19,7 @@ Ledi Nissaya: အနက်မြင်သန်၊ အကျင့်မှန�
 
 Nissaya việt : Mạnh mẽ thấy thấu suốt cái lõi sâu ၊ hành động[s1] ၊ đúng thật hướng đến ၊ thoát-ràng-buộc[o2] không thể sai chạy[chạm-khởi-tan] ။
 
-Diễn giải: Khi cái nhìn đã đủ sắc và mạnh để xuyên thủng lớp vỏ, thấy thẳng vào cái lõi thật đang xoay vần bên trong thì mọi việc làm của tâm thức tự nó sẽ khớp đúng nhịp tự nhiên. Lúc này, cái tâm sẽ tự tuột xích khỏi mọi thứ đang trói buộc mình một cách chắc chắn, không bao giờ có chuyện đi chệch hướng hay hụt bước được [chạm-khởi-tan]."
+Nghĩa ước lệ: Khi cái nhìn đã đủ sắc và mạnh để xuyên thủng lớp vỏ, thấy thẳng vào cái lõi thật đang xoay vần bên trong thì mọi việc làm của tâm thức tự nó sẽ khớp đúng nhịp tự nhiên. Lúc này, cái tâm sẽ tự tuột xích khỏi mọi thứ đang trói buộc mình một cách chắc chắn, không bao giờ có chuyện đi chệch hướng hay hụt bước được [chạm-khởi-tan]."
 
 
 4."Pāḷi: Akkharā, Vaṇṇā, Padā, Vākyā ၊ Ganthā[o1] Anusañjānāti [chạm-khởi-tan] ။
@@ -27,7 +27,7 @@ Nisssaya Ledi: ၄။ အက္ခရာ, ဝဏ္ဏ၊ ပုဒ်, ဝါ�
 
 Nissaya Việt : Khung vỏ không đổi, âm rung sắc, cụm dữ liệu, dòng chảy dữ liệu ၊ mạng lưới dữ liệu[o1] nhận diện theo thứ tự [chạm-khởi-tan] ။
 
-Diễn giải: Nhận diện bám sát đúng thứ tự để tháo rời từng lớp từ vỏ chữ vô tri, độ rung âm thanh, đến cách chúng gom lại thành cụm, chảy đi thành dòng và đan kết thành mạng lưới. Khi tháo sạch các lớp này, bài kinh không còn là chữ nghĩa mơ hồ mà hiện rõ là một hệ vận hành thực tính [chạm-khởi-tan]."""
+Nghĩa ước lệ: Nhận diện bám sát đúng thứ tự để tháo rời từng lớp từ vỏ chữ vô tri, độ rung âm thanh, đến cách chúng gom lại thành cụm, chảy đi thành dòng và đan kết thành mạng lưới. Khi tháo sạch các lớp này, bài kinh không còn là chữ nghĩa mơ hồ mà hiện rõ là một hệ vận hành thực tính [chạm-khởi-tan]."
 
 
 
