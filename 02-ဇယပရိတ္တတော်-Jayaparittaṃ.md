@@ -1,6 +1,5 @@
 Jayaparittaṁ
 Zá-yá-pá-rít-tám
-Sự bảo vệ bằng chiến thắng (vượt qua lỗi lầm).
 
 Jayanto bodhiyā mūle sakyānaṁ nandivuḍḍhano.
 Zá-yán-tô bô-đhí-yà mù-lê, tzák-yà-nám nán-dí-wúđđ-đhhá-nô.
