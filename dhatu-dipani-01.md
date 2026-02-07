@@ -32,7 +32,7 @@ Nghĩa ước lệ: Nhận diện bám sát đúng thứ tự để tháo rời 
 5."Pāḷi: A[s1], aṃ[s1] pariyosāna ၊ ekacattāḷīsa[s1] ၊ gambhīra vaṇṇa[chạm-khởi-tan] ။
 Nissaya Ledi: ၅။ အ, အံ, ဆုံးလစ်၊ လေးဆယ့်တစ်၊ နက်လှစ် ဝဏ္ဏဟူ။
 
-Nissaya Việt : Khởi nguyên thẳng[s1] thu hồi tận cùng[s1] cần mã khoá định lượng ၊ bốn mươi mốt linh kiện[s1] mở nắp soi lỗi đang có vẻ tần số sắc gọi là[chạm-khởi-tan] ။
+Nissaya Việt : Khởi nguyên thẳng[s1] thu hồi tận cùng[s1] cần mã khoá định lượng ၊ bốn mươi mốt linh kiện[s1] mở nắp soi lõi đang có vẻ tần số sắc gọi là[chạm-khởi-tan] ။
 
 Nghĩa ước lệ: Bảng mã Pāḷi bắt đầu từ điểm khởi nguyên thẳng [A] đến điểm thu hồi tận cùng [Aṃ] là một hệ thống được đóng khung định lượng chính xác 41 linh kiện. Toàn bộ chúng không phải là chữ viết vô tri, mà là các tần số rung sắc đang hiển lộ bản chất lõi máy cho cái Biết soi thấu [chạm-khởi-tan].
  "
