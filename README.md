@@ -3,7 +3,7 @@
 ### 🛡️ THÔNG TIN BẢO CHỨNG (CREDITS)
 * **Bậc khởi tạo:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja (Aggamahāpaṇḍita, D.Litt).
 * **Người chuyển ngữ:** Bhikkhu Ñāṇobhāsa.
-* **Hệ thống đối chiếu:** Chánh văn Sixth Council (Pāḷi) & Saddanīti.
+* **Hệ thống đối chiếu:** Chánh văn Sixth Council (Pāḷi) & Moggallāna, Rūpasiddhi, Saddanīti, Candra và Pāṇini.
 
 ### 📜 GIẤY PHÉP BẢO VỆ (LICENSE - CC BY-NC-ND 4.0)
 Bản quyền thực tính thuộc về **Bhikkhu Ñāṇobhāsa**. Khi tiếp cận và sử dụng tư liệu này, người dùng bắt buộc tuân thủ các điều khoản **"Khóa cứng"** sau:
