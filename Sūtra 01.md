@@ -27,5 +27,6 @@
 **Dịch:** "Chúng làm rõ (**vaṇṇenti**), làm sáng (**pakāsenti**) ý nghĩa (**atthaṃ**)", vì vậy gọi là **vaṇṇā**.
 
 **Pāḷi:** Akkharāti ca vuccanti...
+
 **Dịch:** Chúng cũng được gọi là **akkhara**. "Vì là **nāmapaññatti** (cái được đặt tên), chúng không mòn mất (**nakkharanti**), không đi đến (**na gacchanti**) sự tàn và mòn (**khayavayaṃ**)", vì vậy gọi là **akkhara**.
 *Như đã nói trong saṃ. ni. 1.76: "Nāmagottaṃ na jīratī" - "Tên và dòng họ không già đi."*
