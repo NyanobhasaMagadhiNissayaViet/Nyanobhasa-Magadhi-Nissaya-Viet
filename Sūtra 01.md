@@ -22,7 +22,7 @@
 **Dịch:** Bốn mươi ba **akkhara**, bắt đầu từ **a**, kết thúc bởi **bindu**, được gọi là **vaṇṇa**.
 
 > A, ā, i, ī, u, ū, eta, e, ota, o.
-> Ka, kha, ga, gha, ṅa... [liệt kê tiếp]
+> Ka, kha, ga, gha, ṅa, ca, cha, ja, jha, ña, ṭa, ṭha, ḍa, ḍha, ṇa, ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, sa, ha, ḷa, aṃ.
 
 #### Nirutti (Giải thích từ nguyên)
 **Pāḷi:** Atthaṃ vaṇṇenti pakāsentīti vaṇṇā.
