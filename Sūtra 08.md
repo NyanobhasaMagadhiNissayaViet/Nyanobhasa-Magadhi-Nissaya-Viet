@@ -10,7 +10,7 @@
 
 ---
 
-#### VUTTI
+#### Vutti
 **Pāḷi:** Ante bindumatto vaṇṇo niggahītaṃ nāma.
 
 **Dịch:** **Vaṇṇa** ở cuối [tức cuối bảng **vaṇṇa**], chỉ bằng một dấu chấm (**bindumatta**), được gọi là **niggahīta**.
