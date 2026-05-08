@@ -1,16 +1,16 @@
-# Nissaya - Viet 
+Nirutti Dīpanī Nissaya - Vietnamese Version
+🛡️ THÔNG TIN BẢO CHỨNG (CREDITS)
+Bậc khởi tạo: Mahā Thera Ledi Sayadaw U Ñāṇadhaja & Sakkara (Aggamahāpaṇḍita, D.Litt).
 
-# THÔNG TIN BẢO CHỨNG (CREDITS)
-* **Bậc khởi tạo:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja & Sakkara (Aggamahāpaṇḍita, D.Litt)
-* **Người chuyển ngữ:** Bhikkhu **Ñāṇobhāsa**
+Người chuyển ngữ: Bhikkhu Ñāṇobhāsa.
 
+Hệ thống đối chiếu: Chánh văn Sixth Council (Pāḷi) & Saddanīti.
 
----
+📜 GIẤY PHÉP BẢO VỆ (LICENSE - CC BY-NC-ND 4.0)
+Bản quyền thực tính thuộc về Bhikkhu Ñāṇobhāsa. Khi tiếp cận và sử dụng tư liệu này, người dùng bắt buộc tuân thủ các điều khoản "Khóa cứng" sau:
 
-# GIẤY PHÉP BẢO VỆ (LICENSE - CC BY-NC-ND 4.0)
-Bản quyền thực tính thuộc về: **Bhikkhu Ñāṇobhāsa**. 
-Khi sử dụng mã nguồn này, người dùng phải tuân thủ các điều khoản "khóa" sau:
+BY (Attribution - Ghi công): Phải trích dẫn rõ tên tác giả Bhikkhu Ñāṇobhāsa và dòng truyền thừa Ledi Sayadaw.
 
-1. **BY (Attribution):** Phải trích dẫn rõ tên tác giả Bhikkhu Ñāṇobhāsa và dòng truyền Ledi Sayadaw.
-2. **NC (Non-Commercial):** Tuyệt đối KHÔNG được sử dụng mã nguồn này cho mục đích thương mại hoặc kiếm tiền.
-3. **ND (No-Derivatives):** CẤM CHỈNH SỬA. Không được tự ý thay đổi bất kỳ ký tự nào
+NC (Non-Commercial - Phi thương mại): Tuyệt đối KHÔNG được sử dụng tư liệu này cho mục đích thương mại, in ấn bán thu tiền hoặc bất kỳ hình thức kiếm tiền nào.
+
+ND (No-Derivatives - Không phái sinh): CẤM CHỈNH SỬA. Không được tự ý thay đổi, tóm tắt hoặc cải biên bất kỳ ký tự nào trong bản dịch. Mọi sự thay đổi trái phép đều là vi phạm bản quyền và sai lệch tôn chỉ của bậc khởi tạo.
