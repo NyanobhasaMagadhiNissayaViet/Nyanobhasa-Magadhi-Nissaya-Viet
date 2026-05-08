@@ -1,9 +1,9 @@
-# Nyanobhasa - Magadhi - Nissaya - Viet 
+# Nissaya - Viet 
 
 # THÔNG TIN BẢO CHỨNG (CREDITS)
 * **Bậc khởi tạo gốc:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja & Sakkara (Aggamahāpaṇḍita, D.Litt)
-* **Người chuyển ngữ & Mã hóa Māgadhī Việt:** Bhikkhu **Ñāṇobhāsa**
-* **Hệ thống hóa (Systematizer):** Bhikkhu **Ñāṇobhāsa**
+* **Người chuyển ngữ:** Bhikkhu **Ñāṇobhāsa**
+
 
 ---
 
