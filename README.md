@@ -1,4 +1,4 @@
-# Nirutti Dīpanī Nissaya - Vietnamese Version
+# Nirutti Dīpanī - Vietnamese Version
 
 ### 🛡️ THÔNG TIN BẢO CHỨNG (CREDITS)
 * **Bậc khởi tạo:** Mahā Thera Ledi Sayādaw U Ñāṇadhaja (Aggamahāpaṇḍita, D.Litt).
