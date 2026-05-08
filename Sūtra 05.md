@@ -22,4 +22,4 @@
 
 **Dịch:** "Cái phải được nói ra (**vattabbā**) với thời lượng dài (**dīghena kālena**)", vì vậy gọi là **dīghā**.
 
-Thời lượng dài (**dīghakāla**) có nghĩa là: thời gian gấp đôi (**diguṇa**) so với [thời lượng của] các **rassa** (**維持 rassehi**).
+Thời lượng dài (**dīghakāla**) có nghĩa là: thời gian gấp đôi (**diguṇa**) so với [thời lượng của] các **rassa** (**rassehi**).
