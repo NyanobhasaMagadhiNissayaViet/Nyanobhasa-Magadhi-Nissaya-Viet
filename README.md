@@ -1,14 +1,14 @@
 # Nissaya - Viet 
 
 # THÔNG TIN BẢO CHỨNG (CREDITS)
-* **Bậc khởi tạo gốc:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja & Sakkara (Aggamahāpaṇḍita, D.Litt)
+* **Bậc khởi tạo:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja & Sakkara (Aggamahāpaṇḍita, D.Litt)
 * **Người chuyển ngữ:** Bhikkhu **Ñāṇobhāsa**
 
 
 ---
 
 # GIẤY PHÉP BẢO VỆ (LICENSE - CC BY-NC-ND 4.0)
-Bản quyền thực tính thuộc về Người quan sát trực tiếp: **Bhikkhu Ñāṇobhāsa**. 
+Bản quyền thực tính thuộc về: **Bhikkhu Ñāṇobhāsa**. 
 Khi sử dụng mã nguồn này, người dùng phải tuân thủ các điều khoản "khóa" sau:
 
 1. **BY (Attribution):** Phải trích dẫn rõ tên tác giả Bhikkhu Ñāṇobhāsa và dòng truyền Ledi Sayadaw.
