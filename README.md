@@ -8,7 +8,7 @@
 * **Hệ thống đối chiếu:** Chánh văn Sixth Council (Pāḷi) & Moggallāna, Rūpasiddhi, Saddanīti, Candra và Pāṇini.
 
 ### 📜 GIẤY PHÉP BẢO VỆ (LICENSE - CC BY-NC-ND 4.0)
-Bản quyền thực tính thuộc về **Bhikkhu Ñāṇobhāsa**. Khi tiếp cận và sử dụng tư liệu này, người dùng bắt buộc tuân thủ các điều khoản **"Khóa cứng"** sau:
+**Copyright © 2026 by Bhikkhu Ñāṇobhāsa**. Khi tiếp cận và sử dụng tư liệu này, người dùng bắt buộc tuân thủ các điều khoản **"Khóa cứng"** sau:
 
 1. **BY (Attribution - Ghi công):** Phải trích dẫn rõ tên tác giả **Bhikkhu Ñāṇobhāsa** và dòng truyền thừa **Ledi Sayādaw**.
 2. **NC (Non-Commercial - Phi thương mại):** Tuyệt đối **KHÔNG** được sử dụng tư liệu này cho mục đích thương mại, in ấn bán thu tiền hoặc bất kỳ hình thức kiếm tiền nào.
