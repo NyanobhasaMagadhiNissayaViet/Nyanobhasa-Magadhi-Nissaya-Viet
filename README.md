@@ -1,7 +1,7 @@
 # Nirutti Dīpanī Nissaya - Vietnamese Version
 
 ### 🛡️ THÔNG TIN BẢO CHỨNG (CREDITS)
-* **Bậc khởi tạo:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja & Sakkara (Aggamahāpaṇḍita, D.Litt).
+* **Bậc khởi tạo:** Mahā Thera Ledi Sayadaw U Ñāṇadhaja (Aggamahāpaṇḍita, D.Litt).
 * **Người chuyển ngữ:** Bhikkhu Ñāṇobhāsa.
 * **Hệ thống đối chiếu:** Chánh văn Sixth Council (Pāḷi) & Saddanīti.
 
