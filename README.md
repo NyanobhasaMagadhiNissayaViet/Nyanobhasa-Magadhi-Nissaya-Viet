@@ -1,3 +1,5 @@
+# Niruttidīpanī
+[![License: CC BY-NC-ND 4.0](https://shields.io)](https://creativecommons.org)
 ### 🛡️ THÔNG TIN (CREDITS)
 * **Bậc khởi tạo:** Mahā Thera Ledi Sayādaw U Ñāṇadhaja (Aggamahāpaṇḍita, D.Litt).
 * **Người chuyển ngữ:** Bhikkhu Ñāṇobhāsa.
