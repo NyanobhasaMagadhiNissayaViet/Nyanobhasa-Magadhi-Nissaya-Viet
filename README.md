@@ -4,7 +4,9 @@
 * **Bậc khởi tạo:** Mahā Thera Ledi Sayādaw U Ñāṇadhaja (Aggamahāpaṇḍita, D.Litt).
 * **Người chuyển ngữ:** Bhikkhu Ñāṇobhāsa.
 * **Hệ thống đối chiếu:** Chánh văn Sixth Council (Pāḷi) & Moggallāna, Rūpasiddhi, Saddanīti, Candra và Pāṇini.
-
+  
+* **Trang web chính thức:** https://www.theravadanissaya.com/
+  
 ### 📜 GIẤY PHÉP BẢO VỆ (LICENSE - CC BY-NC-ND 4.0)
 **Copyright © 2026 by Bhikkhu Ñāṇobhāsa**. Khi tiếp cận và sử dụng tư liệu này, người dùng bắt buộc tuân thủ các điều khoản **"Khóa cứng"** sau:
 
