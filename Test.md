@@ -1,4 +1,4 @@
-**Verañjaka****ṇḍ****ava****ṇṇ****an****ā**
+**Verañjaka****ṇḍ****ava****ṇṇ****anā**
 
 ```
 Verañjakaṇḍavaṇṇanā                vaṇṇanā về kaṇḍa verañja thì
